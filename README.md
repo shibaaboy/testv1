@@ -1,3 +1,6 @@
+<img width="1024" height="446" alt="image" src="https://github.com/user-attachments/assets/10d33dd0-99a4-4e73-aa70-9848499f846b" />
+
+
 ## rest-api-description
 
 ### Официальные спецификации Публичного API GitVerse в формате **OpenAPI 2.0 (Swagger)**.
